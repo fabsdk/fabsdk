@@ -1,6 +1,6 @@
 ### Hello, how ya doin'? Hope you're doin' great ❣
 - 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and C
 - 😄 Pronouns: she/her
 - :alien: I'm 20y
 <div align="center">
