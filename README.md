@@ -2,6 +2,7 @@
 - 🔭 I’m currently studying Computer Science
 - 🌱 I’m currently learning C#
 - 😄 Pronouns: she/her
+- alien: I'm 20y
 <div align="center">
   <a href="https://github.com/fabsdk">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabsdk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
