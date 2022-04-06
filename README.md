@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/fabiana-kamamoto-203022200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/22sd7djqa4xmsg4mdbvhax6mi" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fabsdk/fabsdk/blob/output/github-contribution-grid-snake.svg)
  
 </div>
