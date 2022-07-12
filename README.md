@@ -1,4 +1,4 @@
-### Hello, how ya doin'? Hope you're doin' great ❣
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B93EF7&lines=NICE+TO+SEE+YOU+HERE%2C+I'M+FABI)
 - 🔭 I’m currently studying Computer Science
 - 🌱 I’m currently learning C# and C
 - 😄 Pronouns: she/her
