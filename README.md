@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B93EF7&lines=NICE+TO+SEE+YOU+HERE%2C+I'M+FABI)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=%Hi,%20I'm%20Fabiana%20Sayuri&height=150&fontSize=80&desc=NICE%20TO%20SEE%20YOU%20HERE&descAlignY=80&descAlign=80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hope+you+doin'+great+)
 - 🔭 I’m currently studying Computer Science
 - 🌱 I’m currently learning C# and C
 - 😄 Pronouns: she/her
