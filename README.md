@@ -1,7 +1,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=%Hi,%20I'm%20Fabiana%20Sayuri&height=150&fontSize=80&desc=NICE%20TO%20SEE%20YOU%20HERE&descAlignY=80&descAlign=80)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hope+you+doin'+great+)
 - 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning C# and C
+- 🌱 I’m currently learning C#, C and PYTHON
 - 😄 Pronouns: she/her
 - :alien: I'm 21y
 <div align="center">
